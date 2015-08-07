@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+    <!--#001 Ousaka Shizuku N Smile-->
+    <card type="N">
+        <id>1</id>
+        <name>Ousaka Shizuku</name>
+        <attribute>Smile</attribute>
+        <skill>None</skill>
+        <cskill>None</cskill>
+        <level1>
+            <hp>2</hp>
+            <smile>960</smile>
+            <pure>450</pure>
+            <cool>308</cool>
+        </level1>
+        <level40>
+            <hp>3</hp>
+            <smile>1340</smile>
+            <pure>690</pure>
+            <cool>500</cool>
+        </level40>
+        <rdate>2013-04-16</rdate>
+    </card>
+    <!--#002 Miyashita Coco N Pure-->
+    <card type="N">
+        <id>2</id>
+        <name>Miyashita Coco</name>
+        <attribute>Pure</attribute>
+        <skill>None</skill>
+        <cskill>None</cskill>
+        <level1>
+            <hp>2</hp>
+            <smile>364</smile>
+            <pure>794</pure>
+            <cool>380</cool>
+        </level1>
+        <level40>
+            <hp>3</hp>
+            <smile>560</smile>
+            <pure>1370</pure>
+            <cool>620</cool>
+        </level40>
+        <rdate>2013-04-16</rdate>
+    </card>
+    <!--#003 Aizawa Yuu N Cool-->
+    <card type="N">
+        <id>3</id>
+        <name>Aizawa Yuu</name>
+        <attribute>Cool</attribute>
+        <skill>None</skill>
+        <cskill>None</cskill>
+        <level1>
+            <hp>2</hp>
+            <smile>350</smile>
+            <pure>380</pure>
+            <cool>1040</cool>
+        </level1>
+        <level40>
+            <hp>3</hp>
+            <smile>590</smile>
+            <pure>570</pure>
+            <cool>1420</cool>
+        </level40>
+        <rdate>2013-04-16</rdate>
+    </card>
+    <!--#004 Ichinose Marika N Smile-->
+    <card type="N">
+        <id>4</id>
+        <name>Ichinose Marika</name>
+        <attribute>Smile</attribute>
+        <skill>None</skill>
+        <cskill>None</cskill>
+        <level1>
+            <hp>2</hp>
+            <smile>1080</smile>
+            <pure>405</pure>
+            <cool>376</cool>
+        </level1>
+        <level40>
+            <hp>3</hp>
+            <smile>1460</smile>
+            <pure>640</pure>
+            <cool>570</cool>
+        </level40>
+        <rdate>2013-04-16</rdate>
+    </card>
+    <!--#005 Yuuki Sana N Pure-->
+    <card type="N">
+        <id>5</id>
+        <name>Yuuki Sana</name>
+        <attribute>Pure</attribute>
+        <skill>None</skill>
+        <cskill>None</cskill>
+        <level1>
+            <hp>2</hp>
+            <smile>320</smile>
+            <pure>1120</pure>
+            <cool>485</cool>
+        </level1>
+        <level40>
+            <hp>3</hp>
+            <smile>510</smile>
+            <pure>1500</pure>
+            <cool>720</cool>
+        </level40>
+        <rdate>2013-04-16</rdate>
+    </card>
+    <!--#006 Nishimura Fumie N Cool-->
+    <card type="N">
+        <id>6</id>
+        <name>Nishimura Fumie</name>
+        <attribute>Cool</attribute>
+        <skill>None</skill>
+        <cskill>None</cskill>
+        <level1>
+            <hp>2</hp>
+            <smile>400</smile>
+            <pure>400</pure>
+            <cool>1120</cool>
+        </level1>
+        <level40>
+            <hp>3</hp>
+            <smile>640</smile>
+            <pure>590</pure>
+            <cool>1500</cool>
+        </level40>
+        <rdate>2013-04-16</rdate>
+    </card>
+    <!--#007 Nagayama Minami N Smile-->
+    <card type="N">
+        <id>7</id>
+        <name>Nagayama Minami</name>
+        <attribute>Smile</attribute>
+        <skill>None</skill>
+        <cskill>None</cskill>
+        <level1>
+            <hp>2</hp>
+            <smile>1176</smile>
+            <pure>410</pure>
+            <cool>396</cool>
+        </level1>
+        <level40>
+            <hp>3</hp>
+            <smile>1550</smile>
+            <pure>650</pure>
+            <cool>590</cool>
+        </level40>
+        <rdate>2013-04-16</rdate>
+    </card>
+    <!--#008 Christina N Pure-->
+    <card type="N">
+        <id>8</id>
+        <name>Nagayama Minami</name>
+        <attribute>Pure</attribute>
+        <skill>None</skill>
+        <cskill>None</cskill>
+        <level1>
+            <hp>2</hp>
+            <smile>444</smile>
+            <pure>1216</pure>
+            <cool>375</cool>
+        </level1>
+        <level40>
+            <hp>3</hp>
+            <smile>640</smile>
+            <pure>1590</pure>
+            <cool>610</cool>
+        </level40>
+        <rdate>2013-04-16</rdate>
+    </card>
+    <!--#008 Christina N Pure-->
+    <card type="N">
+        <id>8</id>
+        <name>Nagayama Minami</name>
+        <attribute>Pure</attribute>
+        <skill>None</skill>
+        <cskill>None</cskill>
+        <level1>
+            <hp>2</hp>
+            <smile>444</smile>
+            <pure>1216</pure>
+            <cool>375</cool>
+        </level1>
+        <level40>
+            <hp>3</hp>
+            <smile>640</smile>
+            <pure>1590</pure>
+            <cool>610</cool>
+        </level40>
+        <rdate>2013-04-16</rdate>
+    </card>
+</album>
